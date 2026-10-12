@@ -1,0 +1,13 @@
+id,text,label
+access-000,help: password and login urgent customer request,access
+access-001,help: account and login,access
+access-002,help: password and locked,access
+access-003,customer reports sign in password,access
+billing-000,unable to use charged; subscription issue urgent customer request,billing
+billing-001,help: refund and payment,billing
+billing-002,unable to use refund; charged issue,billing
+billing-003,card problem with subscription,billing
+technical-000,help: error and screen urgent customer request,technical
+technical-001,unable to use error; slow issue,technical
+technical-002,help: slow and error,technical
+technical-003,unable to use error; sync issue,technical

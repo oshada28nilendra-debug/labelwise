@@ -1,0 +1,61 @@
+id,text,label
+access-060,unable to use verification; locked issue,access
+access-061,customer reports sign in login,access
+access-062,help: locked and account,access
+access-063,customer reports account login urgent customer request,access
+access-064,locked problem with sign in,access
+access-065,password problem with verification,access
+access-066,unable to use account; login issue,access
+access-067,unable to use account; verification issue,access
+access-068,unable to use locked; verification issue,access
+access-069,locked problem with account,access
+access-070,help: locked and password urgent customer request,access
+access-071,help: locked and sign in,access
+access-072,unable to use locked; login issue,access
+access-073,verification problem with login,access
+access-074,customer reports verification account,access
+access-075,unable to use password; verification issue,access
+access-076,verification problem with sign in,access
+access-077,help: sign in and account urgent customer request,access
+access-078,password problem with sign in,access
+access-079,unable to use verification; login issue,access
+billing-060,unable to use refund; payment issue,billing
+billing-061,customer reports charged invoice,billing
+billing-062,help: payment and refund,billing
+billing-063,unable to use invoice; refund issue urgent customer request,billing
+billing-064,customer reports invoice subscription,billing
+billing-065,invoice problem with refund,billing
+billing-066,help: payment and invoice,billing
+billing-067,help: charged and invoice,billing
+billing-068,unable to use invoice; charged issue,billing
+billing-069,help: refund and invoice,billing
+billing-070,customer reports invoice refund urgent customer request,billing
+billing-071,customer reports refund invoice,billing
+billing-072,card problem with charged,billing
+billing-073,help: payment and card,billing
+billing-074,unable to use card; payment issue,billing
+billing-075,card problem with payment,billing
+billing-076,card problem with refund,billing
+billing-077,help: refund and subscription urgent customer request,billing
+billing-078,customer reports refund charged,billing
+billing-079,unable to use payment; subscription issue,billing
+technical-060,customer reports sync screen,technical
+technical-061,error problem with upload,technical
+technical-062,screen problem with crash,technical
+technical-063,customer reports crash screen urgent customer request,technical
+technical-064,customer reports crash error,technical
+technical-065,slow problem with upload,technical
+technical-066,customer reports sync error,technical
+technical-067,crash problem with upload,technical
+technical-068,unable to use sync; slow issue,technical
+technical-069,unable to use screen; crash issue,technical
+technical-070,slow problem with sync urgent customer request,technical
+technical-071,customer reports slow sync,technical
+technical-072,customer reports upload screen,technical
+technical-073,customer reports upload slow,technical
+technical-074,help: crash and upload,technical
+technical-075,slow problem with screen,technical
+technical-076,slow problem with crash,technical
+technical-077,unable to use upload; sync issue urgent customer request,technical
+technical-078,help: crash and error,technical
+technical-079,screen problem with error,technical

@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "classes": [
+    "access",
+    "billing",
+    "technical"
+  ],
+  "seed_count": 12,
+  "pool_count": 168,
+  "test_count": 60,
+  "budgets": [
+    0,
+    5,
+    10,
+    20,
+    40
+  ],
+  "random_repeats": 20,
+  "random_seed": 42,
+  "uncertainty": [
+    {
+      "budget": 0,
+      "accuracy": 0.5,
+      "macro_f1": 0.47727272727272724
+    },
+    {
+      "budget": 5,
+      "accuracy": 0.7833333333333333,
+      "macro_f1": 0.7742584213172448
+    },
+    {
+      "budget": 10,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "budget": 20,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "budget": 40,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    }
+  ],
+  "random": [
+    {
+      "budget": 0,
+      "accuracy_mean": 0.5,
+      "accuracy_std": 0.0,
+      "macro_f1_mean": 0.4772727272727272,
+      "macro_f1_std": 5.551115123125783e-17
+    },
+    {
+      "budget": 5,
+      "accuracy_mean": 0.7366666666666666,
+      "accuracy_std": 0.10744507640857465,
+      "macro_f1_mean": 0.7280383815946989,
+      "macro_f1_std": 0.11080631041143356
+    },
+    {
+      "budget": 10,
+      "accuracy_mean": 0.8008333333333335,
+      "accuracy_std": 0.10922390357019433,
+      "macro_f1_mean": 0.7982789832671575,
+      "macro_f1_std": 0.11039662015053439
+    },
+    {
+      "budget": 20,
+      "accuracy_mean": 0.8799999999999999,
+      "accuracy_std": 0.08326663997864531,
+      "macro_f1_mean": 0.8777595114107746,
+      "macro_f1_std": 0.08418673385931308
+    },
+    {
+      "budget": 40,
+      "accuracy_mean": 0.9633333333333333,
+      "accuracy_std": 0.04847679857416329,
+      "macro_f1_mean": 0.9626130024030637,
+      "macro_f1_std": 0.04955048031169769
+    }
+  ],
+  "selection": "least confidence",
+  "classifier": "class-balanced logistic regression",
+  "features": "word unigram/bigram TF-IDF, max 20,000 features; refit after each acquisition",
+  "protocol": "Pool labels hidden during selection and revealed only after acquisition. Held-out test labels never used for selection or training. Random uses identical budgets.",
+  "warnings": [
+    "Synthetic fixture results do not establish performance on real annotation tasks.",
+    "Learning curves are test-set measurements for demonstration; repeatedly consulting them during design would leak evaluation information."
+  ],
+  "dataset_sha256": "e4c1ecc1c4bb9d155205a29e651be631fc9e900ad5984fb2b686c0cddd11bbf4",
+  "sha256": "1c3e8e814fe10d8af263a00b95069f61bb7f87a6ce73f8e030f16d96ef5eb25d"
+}
