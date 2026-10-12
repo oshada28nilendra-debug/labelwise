@@ -95,8 +95,6 @@ npm run test:browser
 
 Tests cover parser failures, split leakage, seed coverage, deterministic label-free queues, equal budgets, reproducible random trials, empty vocabulary, HTTP guards and CLI behaviour. Browser checks exercise the curve, JSON export, real queue files, confidence evidence, failed-import reset and mobile layout. GitHub Actions runs the suite, measured CLI benchmark and Chromium workflow; check the PR for remote status. See [delivery record](docs/project-status.md).
 
-## Interview explanation
 
-“I built a human-in-the-loop active-learning workflow and protected the evaluation boundary: pool labels stay hidden until acquisition, exact text cannot overlap between splits, the held-out test set never influences selection, and uncertainty is compared with repeated random sampling at equal budgets. The synthetic demo shows a gain at small budgets, but I present it as pipeline verification—not proof that the method saves labels in the real world.”
 
 Synthetic fixtures were authored for this repository; no third-party dataset is redistributed.
