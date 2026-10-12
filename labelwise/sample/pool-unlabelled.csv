@@ -1,0 +1,169 @@
+id,text
+access-004,unable to use account; password issue
+access-005,customer reports locked account
+access-006,sign in problem with account
+access-007,password problem with account urgent customer request
+access-008,customer reports locked sign in
+access-009,help: account and verification
+access-010,password problem with login
+access-011,help: login and sign in
+access-012,unable to use locked; account issue
+access-013,password problem with locked
+access-014,account problem with verification urgent customer request
+access-015,customer reports login password
+access-016,unable to use verification; password issue
+access-017,help: sign in and locked
+access-018,customer reports login account
+access-019,unable to use login; sign in issue
+access-020,login problem with sign in
+access-021,customer reports account verification urgent customer request
+access-022,help: login and locked
+access-023,customer reports locked password
+access-024,help: verification and account
+access-025,help: locked and verification
+access-026,help: locked and login
+access-027,customer reports locked login
+access-028,customer reports locked verification urgent customer request
+access-029,customer reports login locked
+access-030,unable to use verification; account issue
+access-031,locked problem with password
+access-032,unable to use login; account issue
+access-033,login problem with password
+access-034,unable to use locked; sign in issue
+access-035,help: sign in and verification urgent customer request
+access-036,unable to use sign in; locked issue
+access-037,help: account and sign in
+access-038,verification problem with account
+access-039,sign in problem with password
+access-040,customer reports login verification
+access-041,help: verification and password
+access-042,help: account and password urgent customer request
+access-043,verification problem with locked
+access-044,unable to use sign in; account issue
+access-045,help: sign in and login
+access-046,login problem with locked
+access-047,help: login and password
+access-048,locked problem with verification
+access-049,help: password and verification urgent customer request
+access-050,unable to use sign in; login issue
+access-051,customer reports verification password
+access-052,locked problem with login
+access-053,customer reports verification login
+access-054,customer reports password locked
+access-055,customer reports login sign in
+access-056,help: verification and login urgent customer request
+access-057,customer reports password account
+access-058,account problem with locked
+access-059,customer reports password sign in
+billing-004,help: refund and card
+billing-005,unable to use card; subscription issue
+billing-006,help: card and charged
+billing-007,customer reports refund card urgent customer request
+billing-008,refund problem with payment
+billing-009,payment problem with card
+billing-010,unable to use invoice; subscription issue
+billing-011,charged problem with card
+billing-012,help: payment and charged
+billing-013,unable to use subscription; charged issue
+billing-014,customer reports card charged urgent customer request
+billing-015,help: invoice and subscription
+billing-016,help: card and invoice
+billing-017,subscription problem with refund
+billing-018,unable to use refund; card issue
+billing-019,subscription problem with invoice
+billing-020,customer reports subscription charged
+billing-021,subscription problem with card urgent customer request
+billing-022,customer reports card subscription
+billing-023,help: invoice and charged
+billing-024,charged problem with subscription
+billing-025,invoice problem with subscription
+billing-026,payment problem with charged
+billing-027,unable to use payment; refund issue
+billing-028,subscription problem with payment urgent customer request
+billing-029,help: invoice and payment
+billing-030,customer reports payment invoice
+billing-031,help: payment and subscription
+billing-032,invoice problem with card
+billing-033,unable to use subscription; invoice issue
+billing-034,unable to use payment; charged issue
+billing-035,customer reports subscription payment urgent customer request
+billing-036,unable to use payment; invoice issue
+billing-037,help: charged and payment
+billing-038,customer reports card payment
+billing-039,help: charged and card
+billing-040,payment problem with refund
+billing-041,refund problem with subscription
+billing-042,help: card and subscription urgent customer request
+billing-043,customer reports card refund
+billing-044,customer reports charged subscription
+billing-045,unable to use card; invoice issue
+billing-046,unable to use card; refund issue
+billing-047,charged problem with payment
+billing-048,unable to use charged; card issue
+billing-049,unable to use subscription; refund issue urgent customer request
+billing-050,customer reports charged refund
+billing-051,unable to use charged; invoice issue
+billing-052,refund problem with charged
+billing-053,help: invoice and refund
+billing-054,help: invoice and card
+billing-055,unable to use invoice; card issue
+billing-056,card problem with invoice urgent customer request
+billing-057,customer reports payment subscription
+billing-058,help: charged and subscription
+billing-059,subscription problem with charged
+technical-004,help: sync and slow
+technical-005,unable to use screen; upload issue
+technical-006,unable to use error; screen issue
+technical-007,unable to use upload; slow issue urgent customer request
+technical-008,upload problem with screen
+technical-009,unable to use screen; error issue
+technical-010,customer reports sync crash
+technical-011,customer reports error screen
+technical-012,customer reports sync slow
+technical-013,upload problem with slow
+technical-014,error problem with crash urgent customer request
+technical-015,unable to use error; upload issue
+technical-016,unable to use upload; error issue
+technical-017,help: sync and crash
+technical-018,unable to use sync; upload issue
+technical-019,customer reports upload sync
+technical-020,customer reports slow error
+technical-021,unable to use error; crash issue urgent customer request
+technical-022,unable to use slow; screen issue
+technical-023,help: crash and screen
+technical-024,unable to use slow; crash issue
+technical-025,help: screen and slow
+technical-026,help: crash and slow
+technical-027,screen problem with sync
+technical-028,sync problem with upload urgent customer request
+technical-029,unable to use crash; upload issue
+technical-030,customer reports upload error
+technical-031,unable to use slow; sync issue
+technical-032,crash problem with error
+technical-033,error problem with sync
+technical-034,help: screen and crash
+technical-035,sync problem with crash urgent customer request
+technical-036,unable to use sync; error issue
+technical-037,crash problem with sync
+technical-038,upload problem with sync
+technical-039,unable to use upload; crash issue
+technical-040,customer reports screen crash
+technical-041,customer reports crash upload
+technical-042,sync problem with slow urgent customer request
+technical-043,sync problem with screen
+technical-044,customer reports error sync
+technical-045,help: crash and sync
+technical-046,slow problem with error
+technical-047,customer reports error crash
+technical-048,help: upload and crash
+technical-049,help: upload and slow urgent customer request
+technical-050,help: sync and screen
+technical-051,customer reports screen error
+technical-052,help: error and sync
+technical-053,unable to use crash; sync issue
+technical-054,unable to use sync; crash issue
+technical-055,help: upload and screen
+technical-056,unable to use slow; error issue urgent customer request
+technical-057,customer reports screen slow
+technical-058,error problem with slow
+technical-059,unable to use sync; screen issue
